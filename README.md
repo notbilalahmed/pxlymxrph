@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pxlymxrph
+- 👀 I’m interested in python coding  
+- 🌱 I’m currently learning connectivity between mysql and python
+- 📫 You can always reach me at notbilalahmed@gmail.com
+- 👾 I just code to make my daily tasks easier
