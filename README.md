@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pxlymxrph
+- 👋 Hi, I’m Bilal Ahmed
 - 👀 I’m interested in python coding  
 - 🌱 I’m currently learning connectivity between mysql and python
 - 📫 You can always reach me at notbilalahmed@gmail.com
